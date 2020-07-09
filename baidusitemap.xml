@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://randyou.github.io/2020/06/16/docker-login-harbor/</loc>
+    <lastmod>2020-07-09</lastmod>
+  </url>  <url>
+    <loc>http://randyou.github.io/2020/06/13/dockerfile-memo/</loc>
+    <lastmod>2020-07-09</lastmod>
+  </url>  <url>
+    <loc>http://randyou.github.io/2020/07/07/gitlab-jenkins-harbor-k8s/</loc>
+    <lastmod>2020-07-09</lastmod>
+  </url>  <url>
+    <loc>http://randyou.github.io/2020/06/16/harbor-install/</loc>
+    <lastmod>2020-07-09</lastmod>
+  </url>  <url>
+    <loc>http://randyou.github.io/2020/06/16/k8s-pull-from-harbor/</loc>
+    <lastmod>2020-07-09</lastmod>
+  </url>
+</urlset>
